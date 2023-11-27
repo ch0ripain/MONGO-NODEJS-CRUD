@@ -1,6 +1,6 @@
-Integrantes del grupo
-
-Sebastián Diaz - APU005397 - 45327632
+              INTEGRANTES DEL GRUPO
+-------------------------------------------------
+Sebastián Diaz - APU005397 - 45.327.632
 
 Leandro Ariel Rufino - APU005700 - 45.560.432
 
